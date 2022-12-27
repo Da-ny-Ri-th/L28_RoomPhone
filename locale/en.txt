@@ -1,0 +1,48 @@
+#: locale=en
+
+## Action
+
+### URL
+LinkBehaviour_4AB7A391_5291_4703_41C1_D0A14C600812.source = https://www.cmedcc.com/
+LinkBehaviour_660B2F2D_76FC_9531_41D0_36A109E662AC.source = https://www.cmedcc.com/
+LinkBehaviour_662CD49A_76F4_EB1C_41CF_3C78D7DD2E72.source = https://www.google.com/maps/place/CMED+Construction+Company/@11.5450478,104.9248668,15z/data=!4m5!3m4!1s0x0:0x7e215fce7b5af38c!8m2!3d11.5450478!4d104.9248668
+LinkBehaviour_4AB7C390_5291_4701_41D4_459A5D02BB38.source = https://www.google.com/maps/place/CMED+Construction+Company/@11.5450478,104.9248668,15z/data=!4m5!3m4!1s0x0:0x7e215fce7b5af38c!8m2!3d11.5450478!4d104.9248668
+LinkBehaviour_4AB67390_5291_4701_41A0_C95C66A23CAA.source = https://www.linkedin.com/company/cmedcc
+LinkBehaviour_67804E93_76FD_9711_41B4_8678E37FE9D1.source = https://www.linkedin.com/company/cmedcc
+
+## Media
+
+### Floorplan
+
+### Image
+imlevel_45797FE3_5293_5F06_41B8_F831046F36D0.url = media/map_5E3B5A50_51C9_7FE0_41C0_901683889A3F_en_0.png
+imlevel_45788FE4_5293_5F02_41D4_9974767D1804.url = media/map_5E3B5A50_51C9_7FE0_41C0_901683889A3F_en_1.png
+imlevel_4578AFE4_5293_5F02_416D_0A158B3FAB07.url = media/map_5E3B5A50_51C9_7FE0_41C0_901683889A3F_en_2.png
+imlevel_4578BFE4_5293_5F02_41AF_DCFAA10C7F57.url = media/map_5E3B5A50_51C9_7FE0_41C0_901683889A3F_en_3.png
+imlevel_4578DFE4_5293_5F02_41BB_B80B7874BF5C.url = media/map_5E3B5A50_51C9_7FE0_41C0_901683889A3F_en_4.png
+
+### Title
+map_5E3B5A50_51C9_7FE0_41C0_901683889A3F.label = Mini Map
+
+## Skin
+
+### Button
+Button_62CBAF48_73ED_08E4_41DA_8ACEB38B6529_mobile.label = Contact Us
+Button_62CBAF48_73ED_08E4_41DA_8ACEB38B6529.label = Contact Us
+Button_62108AD7_73F3_09EB_41DC_DE1CEC171FA6.label = Mini Map
+Button_62108AD7_73F3_09EB_41DC_DE1CEC171FA6_mobile.label = Mini Map
+
+### Label
+Label_67C0ED9F_73FF_0B9B_41D8_30A7116528C9.text = 24GDT PROJECT, L28 DIRECTOR GENERAL OFFICE
+Label_67C0ED9F_73FF_0B9B_41D8_30A7116528C9_mobile.text = 24GDT PROJECT, L28 DIRECTOR GENERAL OFFICE
+
+### Multiline Text
+HTMLText_B96CD534_B44D_3F42_41B0_9D38CA138EB9.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;word-break:break-word;"><B>{{Title}}</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:14px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"><B>{{Subtitle}}</B></SPAN></DIV><p STYLE="margin:0; line-height:14px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:14px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_B96CD534_B44D_3F42_41B0_9D38CA138EB9_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:7px;word-break:break-word;"><B>{{Title}}</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:7px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:6px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"><B>{{Subtitle}}</B></SPAN></DIV><p STYLE="margin:0; line-height:7px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:7px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+
+## Tour
+
+### Description
+
+### Title
+tour.name = L28_H.E Room
